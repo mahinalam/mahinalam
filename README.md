@@ -9,9 +9,11 @@
 
 
 ## :mailbox: Reach me out
-<p><a href="https://www.linkedin.com/in/mahin-alam-ab027b343" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://github.com/mahinalam" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.facebook.com/mahinalam.mahinalam.3" target="_blank">
+<p><a href="mahinalam351@gmail.com" target="_blank">
+  <img alt="Email" src="https://img.shields.io/badge/Email-%230D1117.svg?&style=for-the-badge&logo=minutemailer&logoColor=white" />
+</a><a href="https://www.linkedin.com/in/mahin-alam-ab027b343" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://github.com/mahinalam" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.facebook.com/mahinalam.mahinalam.3" target="_blank">
   <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-</a></a> <a href="https://www.instagram.com/mahinalam.mahinalam.3"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</a></a>
 </p>
 <br />
 
@@ -43,9 +45,9 @@
 
 ## :eyes: Current overview
 
-### 🔭 I’m working - In Programming Hero. 
-### 🌱 I’m exploring - Advance motion graphics for web. 
+### 🔭 I’m working - In Full Stack Project. 
+### 🌱 I’m exploring - Devops. 
 ### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying - To help people learn web development. 
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+### 🤔 I’m trying - To enhance my coding skills day by day. 
+### ⚡ Fun fact - I am funny.
 <br />
