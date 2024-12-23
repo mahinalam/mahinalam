@@ -47,16 +47,3 @@
 ### 🤔 I’m trying - To help people learn web development. 
 ### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
 <br />
-
-## :rocket: My Projects
-
-Here are some of the projects I've worked on:
-
-### [Project 1 - Web Portfolio](https://github.com/mir-hussain/portfolio)
-A personal portfolio showcasing my web development skills and projects.
-
-### [Project 2 - E-commerce Website](https://github.com/mir-hussain/e-commerce-website)
-An e-commerce platform built using React, Redux, and Node.js.
-
-### [Project 3 - Task Manager](https://github.com/mir-hussain/task-manager)
-A task management application built with Node.js and MongoDB for backend and React for the frontend.
