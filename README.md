@@ -1,7 +1,10 @@
 ## Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 <p>Building seamless digital experiences from concept to code.</p>
 
+
 ## :chart_with_upwards_trend: Current Stats
+
+
 <br />
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mahinalam&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
@@ -9,7 +12,7 @@
 
 
 ## :mailbox: Reach me out
-<p>
+<p align="center">
 <a href="mailto:mahinalam351@gmail.com" target="_blank">
   <img alt="Email" src="https://img.shields.io/badge/Email-%230D1117.svg?&style=for-the-badge&logo=minutemailer&logoColor=white" />
 </a>
@@ -17,10 +20,9 @@
   <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a></a>
 </p>
-<br />
-
 
 <br />
+
 
 ## :computer: Technologies that I know
 
@@ -41,6 +43,7 @@
   </a>
 </p>
 <br/>
+
 
 ## :eyes: Current overview
 
