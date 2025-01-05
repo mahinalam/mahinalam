@@ -1,5 +1,4 @@
 ![image](https://i.ibb.co.com/M9wcQmC/1.png)
-
 ## Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 A Full Stack Developer who thrives on solving complex problems and creating scalable, user-focused web applications. Dedicated to delivering robust solutions that align with business goals and provide meaningful user experiences.
 
