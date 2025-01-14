@@ -5,14 +5,10 @@ A Full Stack Developer who thrives on solving complex problems and creating scal
 In my free time, I contribute to open-source projects, explore emerging web development trends, and build tools to simplify development workflows. Passionate about supporting the developer community and driving innovation through impactful solutions.
 
 
-## :chart_with_upwards_trend: Current Stats
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mahinalam&theme=dark&hide_border=false&border_color=purple&include_all_commits=false&count_private=true&border_radius=5)<br/>
 
 <br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mahinalam&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
-
 
 ## :mailbox: Reach me out
 <p align="center">
