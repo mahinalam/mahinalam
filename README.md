@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/1GcM8v7v/Brown-and-White-Modern-Corporate-Business-Profile-Linked-In-Banner.png" />
+<img src="https://i.ibb.co.com/DHqk9mgq/Brown-and-White-Modern-Corporate-Business-Profile-Linked-In-Banner-1.png" />
 <h2>
   Hi there 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" />
