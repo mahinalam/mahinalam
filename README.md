@@ -1,5 +1,8 @@
 <img src="https://i.ibb.co.com/1GcM8v7v/Brown-and-White-Modern-Corporate-Business-Profile-Linked-In-Banner.png" />
-## Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+<h2>
+  Hi there 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" />
+</h2>
 A Full Stack Developer who thrives on solving complex problems and creating scalable, user-focused web applications. Dedicated to delivering robust solutions that align with business goals and provide meaningful user experiences.
 
 In my free time, I contribute to open-source projects, explore emerging web development trends, and build tools to simplify development workflows. Passionate about supporting the developer community and driving innovation through impactful solutions.
